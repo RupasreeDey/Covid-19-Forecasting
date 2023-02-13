@@ -1,0 +1,17 @@
+Dependencies: numpy, pandas, itertools, sklearn, keras and others if shown as required while running code.
+
+Please ignore some warnings while running the ARIMA python files.
+
+Experiment 01:
+ Dataset: oregon_single.csv
+ Python file: 
+              LSTM_fix_best_imputation_Oregon.py
+		          LSTM_Oregon.py
+              ARIMA_baseline_Oregon.py
+
+Experiment 02:
+ Dataset: oregon_cali_data.csv
+ Python file: 
+              LSTM_fix_best_imputation_both_states.py
+		          LSTM_both_states.py
+              ARIMA_baseline_both_states.py
